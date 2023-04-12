@@ -1,0 +1,25 @@
+
+
+body {
+    background: rgb(16, 174, 236) linear-gradient(45deg, rgb(255, 0, 98),rgb(47, 32, 180), rgb(189, 99, 103)) fixed;
+
+}
+#comment-box, #post ,#reply{
+    border:black;
+    border: 2px;
+    width: auto;
+   
+}
+#post:hover{
+    
+    background-color:  rgb(255, 0, 98);
+
+}
+#reply:hover{
+    background-color:  rgb(255, 0, 98);
+    
+}
+
+
+    
+
